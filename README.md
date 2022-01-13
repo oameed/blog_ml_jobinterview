@@ -3,6 +3,7 @@ This is the place where I collect all the material for interview prep.
 
 ## Articles / Posts
 
+[[view]](https://arxiv.org/abs/2201.00650) 2021.12. Kashani. _Deep Learning Interviews: Hundreds of fully solved job interview questions_  
 [[view]](Doc/Other%20Cheat%20Sheets/2021.12.%20Anwar.%20ML%20Cheat%20Sheets.pdf) 2021.12. Aqeel Anwar. _Cheat Sheets for ML and Data Science_ [[`Anwar`'s Cheat Sheets Website]](https://sites.google.com/view/datascience-cheat-sheets)  
 [[view]](Doc/LinkedIn%20Posts/2021.11.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2021.11. Avisek Lahiri. _Preperation for ML/Data Science Interviews_ [[view on LinkedIn]](https://www.linkedin.com/posts/activity-6869873358796845056-h_T_)  
 [[view]](Doc/LinkedIn%20Posts/2021.09.%20Steve%20Nouri.%20800%20Q%26A%20for%20Data%20Science.pdf) 2021.09. Steve Nouri. _800 Q&A for Data Science_ [[view on LinkedIn]](https://www.linkedin.com/posts/stevenouri_800-data-science-questions-activity-6848586458236882944-chhK) [[`Nouri`'s 40 days of AI]](https://www.linkedin.com/pulse/40-days-ai-steve-nouri/)  

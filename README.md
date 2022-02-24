@@ -1,5 +1,6 @@
 # Job Interview Prep
-This is the place where I collect all the material for interview prep.
+ * This is the place where I collect all the material for interview prep.
+ * [[view]](https://gitlab.com/oameed/ml_statisticallearning_scikitlearn) _A Review of Statistical Learning Theory_  
 
 ## Articles / Posts
 

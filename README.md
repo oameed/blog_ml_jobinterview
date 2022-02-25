@@ -9,7 +9,7 @@
 [[view]](Doc/LinkedIn%20Posts/2021.11.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2021.11. Avisek Lahiri. _Preperation for ML/Data Science Interviews_ [[view on LinkedIn]](https://www.linkedin.com/posts/activity-6869873358796845056-h_T_)  
 [[view]](Doc/LinkedIn%20Posts/2021.09.%20Steve%20Nouri.%20800%20Q%26A%20for%20Data%20Science.pdf) 2021.09. Steve Nouri. _800 Q&A for Data Science_ [[view on LinkedIn]](https://www.linkedin.com/posts/stevenouri_800-data-science-questions-activity-6848586458236882944-chhK) [[`Nouri`'s 40 days of AI]](https://www.linkedin.com/pulse/40-days-ai-steve-nouri/)  
 [[view]](https://towardsai.net/p/machine-learning/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b) 2021.02. Emma Ding. _4 Types of ML Interview Questions for Data Scientists and ML Engineers_ [[`Ding` on YouTube]](https://www.youtube.com/c/DataInterviewPro)  
-[[view]]() 2021.01. Emma Ding. _The Ultimate Guide to Acing Coding Interviews for Data Scientists_    
+[[view]](https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc) 2021.01. Emma Ding. _The Ultimate Guide to Acing Coding Interviews for Data Scientists_    
 
 ## Online Courses
 [[view]](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) 0000. Andrew Ng. _Machine Learning (Coursera, by Stanford)_ [[`AI - All in One` on YouTube]](https://www.youtube.com/c/ArtificialIntelligenceAllinOne/featured)  

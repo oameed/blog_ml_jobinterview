@@ -12,7 +12,7 @@
 _Articles_
  * [[view]](Doc/LinkedIn%20Posts/2021.11.%20Lahiri.%20Preperation%20for%20ML%20and%20Data%20Science%20Interviews.pdf) 2021.11. Avisek Lahiri. _Preperation for ML/Data Science Interviews_ [[view on LinkedIn]](https://www.linkedin.com/posts/activity-6869873358796845056-h_T_)  
  * [[view]](https://towardsai.net/p/machine-learning/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b) 2021.02. Emma Ding. _4 Types of ML Interview Questions for Data Scientists and ML Engineers_ [[`Ding` on YouTube]](https://www.youtube.com/watch?v=21E-bUnGQQ4&list=PLY1Fi4XflWSsLoOQr-Ee2R4qRFejtCFRh&index=1)  
- * [[view]](https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc) 2021.01. Emma Ding. _The Ultimate Guide to Acing Coding Interviews for Data Scientists_    
+ * [[view]](https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc) 2021.01. Emma Ding. _The Ultimate Guide to Acing Coding Interviews for Data Scientists_  
 
  * [[view]](https://towardsdatascience.com/how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938) 2020.09. Emma Ding. _How I Got 4 Data Science Offers and Doubled my Income 2 Months after being Laid Off_  
 

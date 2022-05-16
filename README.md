@@ -5,6 +5,7 @@
 ## Technical
  
  * [[view]](https://gitlab.com/oameed/ml_statisticallearning_scikitlearn) _A Review of Statistical Learning Theory_  
+ * [[view]](https://huyenchip.com/ml-interviews-book/) 2022. Huyen. _Introduction to Machine Learning Interviews Book_ [[GitHub]](https://github.com/chiphuyen/ml-interviews-book)  
  * [[view]](https://arxiv.org/abs/2201.00650) 2021.12. Kashani. _Deep Learning Interviews: Hundreds of fully solved job interview questions_ [[GitHub]](https://github.com/BoltzmannEntropy/interviews.ai)  
  * [[view]](Doc/Other%20Cheat%20Sheets/2021.12.%20Anwar.%20ML%20Cheat%20Sheets.pdf) 2021.12. Aqeel Anwar. _Cheat Sheets for ML and Data Science_ [[`Anwar`'s Cheat Sheets Website]](https://sites.google.com/view/datascience-cheat-sheets)  
  * [[view]](Doc/LinkedIn%20Posts/2021.09.%20Steve%20Nouri.%20800%20Q%26A%20for%20Data%20Science.pdf) 2021.09. Steve Nouri. _800 Q&A for Data Science_ [[view on LinkedIn]](https://www.linkedin.com/posts/stevenouri_800-data-science-questions-activity-6848586458236882944-chhK) [[`Nouri`'s 40 days of AI]](https://www.linkedin.com/pulse/40-days-ai-steve-nouri/)  

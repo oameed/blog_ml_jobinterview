@@ -34,3 +34,8 @@ _Miscellaneous_
 ## Behavioral
 * [[view]](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) Haseeb. _en Rules for Negotiating a Job Offer_  
 
+## Other
+* [[view]](https://grow.google/certificates/interview-warmup/) _Google's Interview Warmup_  
+
+
+
